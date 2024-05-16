@@ -12,3 +12,7 @@ pytest -v -s -n=2  testCases/test_login.py --browser edge
 pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser edge
 
  C:\Users\Priyanshu Soni\PycharmProjects\nopcommerceApp>
+
+
+ driver installed>>>>>
+ C:\Users\Priyanshu Soni\AppData\Local\Programs\Python\Python310\Scripts
