@@ -7,7 +7,7 @@ pytest -s -v -n=2 --html=Reports\report.html testCases/test_login.py
 pytest -v -s -n=2  testCases/test_login.py --browser edge
 
 
- markers
+ markers>>
 
 pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser edge
 
